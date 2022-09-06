@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class EventTestActivity extends AppCompatActivity {
-
+    // token : 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
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
